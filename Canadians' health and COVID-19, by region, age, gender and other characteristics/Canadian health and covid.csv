@@ -1,0 +1,67 @@
+﻿"Canadians' health and COVID-19, by region, age, gender and other characteristics" 1 2 3
+"Occasional"
+"Table: 13-10-0809-01"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+
+"",,"Canada (excluding territories)",
+"",,"Total, 18 years and over",
+"",,"Total, gender of person 4",
+"",,"Likelihood to get COVID-19 vaccine, very likely or somewhat likely",
+"","","Number of persons 5","Percentage of persons 6"
+"Population group","Collection period 3","2020","2020"
+"",,"Number","Percent"
+"Living in single-person household","September to December 2020","3,096,900","74.6"
+"Living in multi-person household","September to December 2020","18,073,600","77.7"
+"Non-immigrants 7","September to December 2020","15,643,300","78.1"
+"Immigrant, less than 10 years in Canada 7","September to December 2020","1,292,100","75.7"
+"Immigrant, 10 or more years in Canada 7","September to December 2020","3,235,700","73.3"
+"Total visible minority population 8 9","September to December 2020","4,124,400","75.9"
+"   Black","September to December 2020","391,300","54.8"
+"   East or Southeast Asian","September to December 2020","1,688,700","78.8"
+"   Chinese","September to December 2020","912,400","79.6"
+"   Filipino","September to December 2020","376,500","74.8"
+"   Japanese","September to December 2020","67,700E","85.8"
+"   Korean","September to December 2020","74,500E","90.0"
+"   Southeast Asian","September to December 2020","257,500","77.6"
+"   South Asian","September to December 2020","1,184,700","85.0"
+"   Arab/West Asian","September to December 2020","480,900","72.7"
+"   Arab","September to December 2020","372,400","70.5"
+"   West Asian","September to December 2020","108,600E","81.3"
+"   Latin American","September to December 2020","220,700E","66.4"
+"   Other or multiple visible minorities 10","September to December 2020","158,100E","85.1"
+"Not a visible minority 11","September to December 2020","16,662,100","77.8"
+"Indigenous identity 12","September to December 2020","597,200","71.7"
+"   First Nations","September to December 2020","308,700","75.1"
+"   Métis","September to December 2020","253,100","67.1"
+"Non-Indigenous identity 12","September to December 2020","20,210,300","77.5"
+"Highest level of education, less than secondary school graduation 13","September to December 2020","1,506,600","69.0"
+"Highest level of education, secondary school graduation, no post-secondary education 13","September to December 2020","4,538,600","73.9"
+"Highest level of education, post-secondary certificate/diploma or university degree 13","September to December 2020","15,001,600","79.5"
+"LGBTQ2+ 14","September to December 2020","927,700","83.6"
+"Non-LGBTQ2+ 14","September to December 2020","19,733,800","77.1"
+"Has an underlying health condition 15","September to December 2020","8,090,500","78.6"
+"Does not have an underlying health condition 15","September to December 2020","13,080,000","76.4"
+
+Symbol legend:
+E,use with caution,
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS), September to December 2020."
+2,"All estimates in this table are calculated excluding non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+3,"The collection for the Canadian Community Health Survey (CCHS) in 2020 was halted during the COVID-19 pandemic at the end of March and restarted in September. Monthly data for 2020 was collected during three periods — September 1st to September 30th, October 1st to November 4th, and November 5th to December 12th— with the data from these periods being tabulated by province, age group, and sex in the table 13-10-0806. This table uses combined collection periods to increase the sample sizes for looking at the different respondent characteristics."
+4,"Due to low count of responses to the ""Gender diverse"" and ""Gender non-response"" categories, these categories cannot be disseminated and are only accounted in the total by gender."
+5,Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Community Health Survey (CCHS) survey weights and resulting estimates included in this table are consistent with known population totals.
+6,Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred.
+7,"Refers to people who are, or have been, landed immigrants in Canada. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities. The non-immigrants category refers to those who are born in Canada."
+8,"The Employment Equity Act defines visible minorities as ""persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour""."
+9,"For more information on the Visible minority variable, including information on its classification, the questions from which it is derived, data quality and its comparability with other sources of data, please refer to the Visible Minority and Population Group Reference Guide, Census of Population, 2016."
+10,"Includes persons with a write-in response such as ""Guyanese"", ""West Indian"", ""Tibetan"", ""Polynesian"", ""Pacific Islander"", et cetera, or who gave more than one visible minority group by checking two or more mark-in responses, for example, ""Black"" and ""South Asian""."
+11,"Includes persons who reported ""Yes"" to the Indigenous identity question (Question 18 in the 2016 Census), as well as persons who were not considered to be members of a visible minority group."
+12,"Includes persons who reported having an Indigenous identity, that is, First Nations (North American Indian), Métis or Inuk (Inuit), or those who reported more than one identity. Excluded from the survey’s coverage are persons living on reserves and other Indigenous settlements in the provinces, as well as those living in the territories. Data on persons reporting being Inuit or having multiple identities are included in the Indigenous total but are not shown separately because of small sample sizes."
+13,"Post-secondary includes those with a trade, college, or CEGEP certificate or diploma. Estimates based on the highest level of education exclude non-respondents."
+14,"Respondents were included in the LGBTQ2+ population on the basis of self-reported sexual orientation (lesbian, gay, bisexual, or another minority sexual identity such as asexual, pansexual or queer) or gender identity (transgender, including respondents with non-binary identities like genderqueer, gender fluid or agender)."
+15,"Underlying health conditions considered include the following: chronic obstructive pulmonary disease, obesity (self-reported body mass index greater than or equal to 30), high blood pressure, currently having cancer, heart disease, suffering from the effects of a stroke, diabetes, or dementia. The population with no underlying health conditions is calculated taking into account the non-response categories (""refusal"", ""don't know"" and ""not applicable"")."
+
+"How to cite: Statistics Canada. Table 13-10-0809-01 Canadians' health and COVID-19, by region, age, gender and other characteristics"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310080901
+DOI: https://doi.org/10.25318/1310080901-eng
