@@ -1,0 +1,50 @@
+﻿"Number and percentage of adults (aged 18 years and older) in the household population with underlying health conditions, by age and sex (two-year period)" 1 2 3 4
+"Occasional"
+"Table: 13-10-0777-01"
+"Geography: Canada, Province or territory, Health region"
+
+"",,"Canada",,,
+"",,"Number of persons",,,
+"",,"2017 / 2018",,,
+"Sex","Age group","At least 1 underlying health condition 2 4","At least 2 underlying health conditions 2 4","At least 3 underlying health conditions 2 4","At least 4 underlying health conditions 2 4"
+"",,"Number",,,
+"Both sexes","Total, 18 years and over","10,981,700","3,877,000","1,238,200","291,100"
+,"18 to 59 years","5,717,300","1,370,700","326,000","58,000"
+,"18 to 39 years","1,946,800","200,700","22,000E","F"
+,"40 to 59 years","3,770,500","1,170,000","304,000","56,200"
+,"60 years and over","5,264,400","2,506,200","912,200","233,100"
+,"60 to 79 years","4,351,400","2,061,500","749,700","179,300"
+,"80 years and over","913,000","444,700","162,500","53,700"
+"Males","Total, 18 years and over","5,661,600","2,082,400","673,000","170,000"
+,"18 to 59 years","3,064,300","780,100","181,200","35,300"
+,"18 to 39 years","1,020,100","116,700","12,400E","F"
+,"40 to 59 years","2,044,300","663,400","168,800","34,200"
+,"60 years and over","2,597,200","1,302,300","491,700","134,700"
+,"60 to 79 years","2,203,200","1,098,800","414,400","106,400"
+,"80 years and over","394,100","203,600","77,300","28,300"
+"Females","Total, 18 years and over","5,320,100","1,794,600","565,300","121,000"
+,"18 to 59 years","2,653,000","590,700","144,800","22,700"
+,"18 to 39 years","926,800","84,000","9,600E","F"
+,"40 to 59 years","1,726,300","506,600","135,100","22,000"
+,"60 years and over","2,667,100","1,203,900","420,500","98,400"
+,"60 to 79 years","2,148,200","962,800","335,300","72,900"
+,"80 years and over","519,000","241,200","85,200","25,400"
+
+Symbol legend:
+E,use with caution,
+F,too unreliable to be published,
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS), 2017 and 2018"
+2,"All estimates in this table are calculated including non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+3,"The health regions presented in this table are based on boundaries and names in effect as of 2017. For complete Canadian coverage, Yukon, the Northwest Territories and Nunavut each represent a health region."
+4,"Underlying health conditions considered include the following: chronic obstructive pulmonary disease, obesity (self-reported body mass index greater than or equal to 30), high blood pressure, currently having cancer, heart disease, suffering from the effects of a stroke, diabetes, or dementia. The number of conditions reported by each respondent was summed, for a possible total of 8."
+5,Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred.
+6,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+7,Bootstrapping techniques were used to produce the 95% confidence intervals (CIs).
+8,Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution.
+9,Data with a coefficient of variation (CV) greater than 35.0% or that did not meet the minimum sample size requirement were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published.
+
+"How to cite: Statistics Canada. Table 13-10-0777-01 Number and percentage of adults (aged 18 years and older) in the household population with underlying health conditions, by age and sex (two-year period)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310077701
+DOI: https://doi.org/10.25318/1310077701-eng
