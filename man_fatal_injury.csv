@@ -1,0 +1,73 @@
+MANOEUVER,INJURY,ACCNUM
+Changing Lanes,Fatal,9
+Changing Lanes,Major,76
+Changing Lanes,Minimal,8
+Changing Lanes,Minor,8
+Changing Lanes,None,102
+Disabled,Major,1
+Disabled,None,3
+Going Ahead,Fatal,223
+Going Ahead,Major,1994
+Going Ahead,Minimal,383
+Going Ahead,Minor,467
+Going Ahead,None,2619
+Making U Turn,Fatal,2
+Making U Turn,Major,23
+Making U Turn,Minimal,8
+Making U Turn,Minor,6
+Making U Turn,None,60
+Merging,Fatal,1
+Merging,Major,8
+Merging,Minor,1
+Merging,None,7
+Other,Fatal,3
+Other,Major,93
+Other,Minimal,15
+Other,Minor,22
+Other,None,43
+Overtaking,Fatal,2
+Overtaking,Major,45
+Overtaking,Minimal,1
+Overtaking,Minor,5
+Overtaking,None,34
+Parked,Major,4
+Parked,Minimal,1
+Parked,Minor,2
+Parked,None,162
+Pulling Away from Shoulder or Curb,Fatal,2
+Pulling Away from Shoulder or Curb,Major,3
+Pulling Away from Shoulder or Curb,Minimal,1
+Pulling Away from Shoulder or Curb,Minor,1
+Pulling Away from Shoulder or Curb,None,31
+Pulling Onto Shoulder or towardCurb,Fatal,1
+Pulling Onto Shoulder or towardCurb,Major,7
+Pulling Onto Shoulder or towardCurb,Minor,2
+Pulling Onto Shoulder or towardCurb,None,4
+Reversing,Fatal,2
+Reversing,Major,9
+Reversing,None,102
+Slowing or Stopping,Fatal,3
+Slowing or Stopping,Major,68
+Slowing or Stopping,Minimal,22
+Slowing or Stopping,Minor,11
+Slowing or Stopping,None,145
+Stopped,Fatal,1
+Stopped,Major,128
+Stopped,Minimal,67
+Stopped,Minor,71
+Stopped,None,309
+Turning Left,Fatal,17
+Turning Left,Major,230
+Turning Left,Minimal,104
+Turning Left,Minor,99
+Turning Left,None,1178
+Turning Right,Fatal,2
+Turning Right,Major,36
+Turning Right,Minimal,9
+Turning Right,Minor,6
+Turning Right,None,378
+Unknown,Fatal,3
+Unknown,Major,46
+Unknown,Minimal,2
+Unknown,Minor,4
+Unknown,None,65
