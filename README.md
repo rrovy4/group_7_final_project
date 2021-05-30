@@ -67,21 +67,21 @@ Would like to show some basic visuals on the following topics.
 4. A breakdown of Number of injuries in Toronto by age.
 ![image](https://user-images.githubusercontent.com/76402559/120111166-dfb13d80-c13e-11eb-834a-4339fb04197c.png)
 
-[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesinToronto/Breakdownofinjuries)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesinToronto/Breakdownofinjuries)
 
 5. A breakdown of Number of injuries caused by manoeueur in Toronto
 ![image](https://user-images.githubusercontent.com/76402559/120111247-3159c800-c13f-11eb-918d-62d241768cff.png)
 
-[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinToronto/InjuriesbyManoeuver)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinToronto/InjuriesbyManoeuver)
 
 ![image](https://user-images.githubusercontent.com/76402559/120111271-4cc4d300-c13f-11eb-8df4-fd2fe1457749.png)
 
-[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinTorontoHorizontalBars/InjuriesbyManoeuverinToronto2)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinTorontoHorizontalBars/InjuriesbyManoeuverinToronto2)
 
 6. Fatalities by involvement type
 ![image](https://user-images.githubusercontent.com/76402559/120111398-cf4d9280-c13f-11eb-8d33-a01d8178e37a.png)
 
 
-[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitiesbyinvolvmenttypepiechart/fatalitiesbyinvolvementtype)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitiesbyinvolvmenttypepiechart/fatalitiesbyinvolvementtype)
 
 
