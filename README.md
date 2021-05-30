@@ -46,7 +46,7 @@ Toronto Police Service Public Safety Data Portal
 - Machine Learning: Jason
 - Presentation Materials: Maaz
 
-## Deliverable 2
+## Module 20 Second Segment Project Deliverable
 
 The purpose of our project is to analyze Killed and Seriously Injured data taken from the Toronto Police Service Open Data Portal and determine which areas are considered high risk for fatal and non-fatal collisions. This analysis will help inform daily commuters of these high risk areas and aid city officials develope proper safety measures to reduce the number of collisions.
 
