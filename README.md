@@ -62,26 +62,26 @@ Would like to show some basic visuals on the following topics.
 3. Collisions in Toronto for the past 8 years. The same can also be found on [Tableau public](https://public.tableau.com/views/3_CollisionsinTorontofortrhpast8years_/3_CollisionsinTorontofortrhpast8years_?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 <img width="956" alt="3" src="https://user-images.githubusercontent.com/76264061/120106790-16f20f80-c17c-11eb-9fa3-a800e733d688.png"> 
-( Note to grader- This is for assignment due May 30th)
+
 
 4. A breakdown of Number of injuries in Toronto by age.
 ![image](https://user-images.githubusercontent.com/76402559/120111166-dfb13d80-c13e-11eb-834a-4339fb04197c.png)
 
-https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesinToronto/Breakdownofinjuries
+[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesinToronto/Breakdownofinjuries)
 
 5. A breakdown of Number of injuries caused by manoeueur in Toronto
 ![image](https://user-images.githubusercontent.com/76402559/120111247-3159c800-c13f-11eb-918d-62d241768cff.png)
 
-https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinToronto/InjuriesbyManoeuver
+[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinToronto/InjuriesbyManoeuver)
 
 ![image](https://user-images.githubusercontent.com/76402559/120111271-4cc4d300-c13f-11eb-8df4-fd2fe1457749.png)
 
-https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinTorontoHorizontalBars/InjuriesbyManoeuverinToronto2
+[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinTorontoHorizontalBars/InjuriesbyManoeuverinToronto2)
 
 6. Fatalities by involvement type
 ![image](https://user-images.githubusercontent.com/76402559/120111398-cf4d9280-c13f-11eb-8d33-a01d8178e37a.png)
 
 
-https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitiesbyinvolvmenttypepiechart/fatalitiesbyinvolvementtype
+[Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitiesbyinvolvmenttypepiechart/fatalitiesbyinvolvementtype)
 
 
