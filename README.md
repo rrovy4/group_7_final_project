@@ -62,5 +62,5 @@ Would like to show some basic visuals on the following topics.
 3. Collisions in Toronto for the past 8 years. The same can also be found on [Tableau public](https://public.tableau.com/views/3_CollisionsinTorontofortrhpast8years_/3_CollisionsinTorontofortrhpast8years_?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 <img width="956" alt="3" src="https://user-images.githubusercontent.com/76264061/120106790-16f20f80-c17c-11eb-9fa3-a800e733d688.png"> 
-( Note to grader- This is for assignment due May 30th) 
+
 
