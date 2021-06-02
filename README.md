@@ -46,7 +46,7 @@ Toronto Police Service Public Safety Data Portal
 - Machine Learning: Jason
 - Presentation Materials: Maaz
 
-## Deliverable 2
+# Deliverable 2
 
 The purpose of our project is to analyze Killed and Seriously Injured data taken from the Toronto Police Service Open Data Portal and determine which areas are considered high risk for fatal and non-fatal collisions. This analysis will help inform daily commuters of these high risk areas and aid city officials develope proper safety measures to reduce the number of collisions.
 
@@ -106,3 +106,94 @@ The same can also be found on [Tableau public](https://public.tableau.com/app/pr
 
 
 The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitybytime/FatalitybyTime)
+
+# Machine Learning
+
+In order to use our dataset to predict future fatal and non-fatal collisions, we will need to select a machine learning model for our analysis. To achieve this, we will be testing the following models:
+
+- Oversampling (Random Oversampler and SMOTE)
+- Undersampling (Cluster Centroids)
+- Combination (Over and Under) Sampling
+- Balanced Random Forest Classifier
+- Easy Ensemble Classifier
+
+
+## Results
+
+Our analysis produced the following results:
+
+### Oversampling
+
+#### Random Oversampler
+
+Accuracy Score: 0.7263070982300752
+
+Confusion Matrix
+
+![random_over_cm](/resources/screenshots/random_over_cm.PNG)
+
+Imbalanced Classification Report
+
+![random_over](/resources/screenshots/random_over_icr.PNG)
+
+#### SMOTE
+
+Accuracy Score: 0.6753046117908217
+
+Confusion Matrix
+
+![smote_cm](/resources/screenshots/smote_cm.PNG)
+
+Imbalanced Classification Report
+
+![smote_over](/resources/screenshots/smote_icr.PNG)
+
+### Undersampling
+
+#### Cluster Centroids
+
+Accuracy Score: 0.5247470620197009
+
+Confusion Matrix
+
+![under_cm](/resources/screenshots/cc_cm.PNG)
+
+Imbalanced Classification Report
+
+![under](/resources/screenshots/cc_icr.PNG)
+
+### Combination (Over and Under) Sampling
+
+Accuracy Score: 0.6784468923380029
+
+Confusion Matrix
+
+![combo_cm](/resources/screenshots/combo_cm.PNG)
+
+Imbalanced Classification Report
+
+![combo](/resources/screenshots/combo_icr.PNG)
+
+### Balanced Random Forest Classifier
+
+Accuracy Score: 0.8675290096675505
+
+Confusion Matrix
+
+![brf_cm](/resources/screenshots/brfc_cm.PNG)
+
+Imbalanced Classification Report
+
+![brf](/resources/screenshots/brfc_icr.PNG)
+
+### Easy Ensemble Classifier
+
+Confusion Matrix
+
+Accuracy Score: 0.7802319612194826
+
+![ee_cm](/resources/screenshots/eec_cm.PNG)
+
+Imbalanced Classification Report
+
+![ee](/resources/screenshots/eec_icr.PNG)
