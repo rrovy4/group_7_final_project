@@ -69,10 +69,13 @@ Would like to show some basic visuals on the following topics.
 
 The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Injuriescausedbyalchohol/Breakdownofinjuries)
 
+
 5. Injuries caused by alchohol for 20 to 24 year olds
 ![image](https://user-images.githubusercontent.com/76402559/120498305-1da3a100-c38d-11eb-8eff-37d5f1353843.png)
 
+
 The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Injuriescausedbyalchoholfor20to24yearolds/Breakdownofinjuries)
+
 
 6. Injuries by Manoeuver in Toronto
 ![image](https://user-images.githubusercontent.com/76402559/120498988-af131300-c38d-11eb-8f0a-a522413e195f.png)
