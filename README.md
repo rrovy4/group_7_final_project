@@ -197,3 +197,9 @@ Accuracy Score: 0.7802319612194826
 Imbalanced Classification Report
 
 ![ee](/resources/screenshots/eec_icr.PNG)
+
+## Summary
+
+After testing six machine learning models, we found that the Balanced Random Forest Classifier produced the highest accuracy rating. While this model did produce high precision, recall and f1 scores for non-fatal collisions, fatal collisions earned low precision and f1 scores, and a high recall score. This means that this model will have a large number of false positives and a low number of false negatives.
+
+Since the majority of all fatal collisions are being classified correctly, additional testing will be required to address the large amount of false positives in this class. This is not a major issue, as it is better to have false positives for fatal collisions than for non-fatal. Whether or not resources are available to perform additional testing, we recoomend moving forward with the Balanced Random Forest Classifier model. 
