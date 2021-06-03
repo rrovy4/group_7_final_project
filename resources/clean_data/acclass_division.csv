@@ -1,0 +1,36 @@
+POLICE_DIVISION,ACCLASS,ACCNUM
+D11,Fatal,111
+D11,Non-Fatal Injury,698
+D12,Fatal,62
+D12,Non-Fatal Injury,675
+D13,Fatal,86
+D13,Non-Fatal Injury,708
+D14,Fatal,119
+D14,Non-Fatal Injury,1044
+D22,Fatal,129
+D22,Non-Fatal Injury,1073
+D23,Fatal,208
+D23,Non-Fatal Injury,956
+D31,Fatal,137
+D31,Non-Fatal Injury,741
+D32,Fatal,189
+D32,Non-Fatal Injury,1004
+D33,Fatal,133
+D33,Non-Fatal Injury,718
+D41,Fatal,253
+D41,Non-Fatal Injury,1044
+D42,Fatal,262
+D42,Non-Fatal Injury,1402
+D43,Fatal,183
+D43,Non-Fatal Injury,839
+D43,Property Damage Only,2
+D51,Fatal,82
+D51,Non-Fatal Injury,801
+D52,Fatal,70
+D52,Non-Fatal Injury,877
+D53,Fatal,133
+D53,Non-Fatal Injury,744
+D54,Fatal,78
+D54,Non-Fatal Injury,483
+D55,Fatal,62
+D55,Non-Fatal Injury,754

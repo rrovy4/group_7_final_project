@@ -1,0 +1,273 @@
+INVTYPE,INVAGE,ACCLASS,ACCNUM
+Cyclist,10 to 14,Non-Fatal Injury,15
+Cyclist,15 to 19,Fatal,3
+Cyclist,15 to 19,Non-Fatal Injury,43
+Cyclist,20 to 24,Fatal,2
+Cyclist,20 to 24,Non-Fatal Injury,87
+Cyclist,25 to 29,Fatal,3
+Cyclist,25 to 29,Non-Fatal Injury,82
+Cyclist,30 to 34,Non-Fatal Injury,82
+Cyclist,35 to 39,Fatal,6
+Cyclist,35 to 39,Non-Fatal Injury,62
+Cyclist,40 to 44,Fatal,2
+Cyclist,40 to 44,Non-Fatal Injury,55
+Cyclist,45 to 49,Fatal,4
+Cyclist,45 to 49,Non-Fatal Injury,53
+Cyclist,5 to 9,Fatal,2
+Cyclist,5 to 9,Non-Fatal Injury,6
+Cyclist,50 to 54,Fatal,4
+Cyclist,50 to 54,Non-Fatal Injury,75
+Cyclist,55 to 59,Fatal,5
+Cyclist,55 to 59,Non-Fatal Injury,48
+Cyclist,60 to 64,Fatal,3
+Cyclist,60 to 64,Non-Fatal Injury,30
+Cyclist,65 to 69,Fatal,2
+Cyclist,65 to 69,Non-Fatal Injury,24
+Cyclist,70 to 74,Fatal,3
+Cyclist,70 to 74,Non-Fatal Injury,8
+Cyclist,75 to 79,Fatal,1
+Cyclist,75 to 79,Non-Fatal Injury,6
+Cyclist,80 to 84,Fatal,1
+Cyclist,80 to 84,Non-Fatal Injury,4
+Cyclist,85 to 89,Non-Fatal Injury,1
+Cyclist,unknown,Non-Fatal Injury,4
+Cyclist Passenger,25 to 29,Non-Fatal Injury,1
+Cyclist Passenger,60 to 64,Non-Fatal Injury,1
+Driver,10 to 14,Non-Fatal Injury,5
+Driver,15 to 19,Fatal,36
+Driver,15 to 19,Non-Fatal Injury,189
+Driver,20 to 24,Fatal,93
+Driver,20 to 24,Non-Fatal Injury,654
+Driver,25 to 29,Fatal,111
+Driver,25 to 29,Non-Fatal Injury,658
+Driver,30 to 34,Fatal,79
+Driver,30 to 34,Non-Fatal Injury,595
+Driver,35 to 39,Fatal,71
+Driver,35 to 39,Non-Fatal Injury,640
+Driver,35 to 39,Property Damage Only,1
+Driver,40 to 44,Fatal,83
+Driver,40 to 44,Non-Fatal Injury,658
+Driver,45 to 49,Fatal,76
+Driver,45 to 49,Non-Fatal Injury,639
+Driver,45 to 49,Property Damage Only,1
+Driver,50 to 54,Fatal,94
+Driver,50 to 54,Non-Fatal Injury,637
+Driver,55 to 59,Fatal,76
+Driver,55 to 59,Non-Fatal Injury,501
+Driver,60 to 64,Fatal,49
+Driver,60 to 64,Non-Fatal Injury,392
+Driver,65 to 69,Fatal,39
+Driver,65 to 69,Non-Fatal Injury,267
+Driver,70 to 74,Fatal,27
+Driver,70 to 74,Non-Fatal Injury,207
+Driver,75 to 79,Fatal,26
+Driver,75 to 79,Non-Fatal Injury,154
+Driver,80 to 84,Fatal,21
+Driver,80 to 84,Non-Fatal Injury,100
+Driver,85 to 89,Fatal,17
+Driver,85 to 89,Non-Fatal Injury,49
+Driver,90 to 94,Fatal,5
+Driver,90 to 94,Non-Fatal Injury,12
+Driver,Over 95,Non-Fatal Injury,1
+Driver,unknown,Fatal,25
+Driver,unknown,Non-Fatal Injury,330
+Driver - Not Hit,20 to 24,Fatal,1
+Driver - Not Hit,30 to 34,Non-Fatal Injury,1
+Driver - Not Hit,45 to 49,Non-Fatal Injury,1
+Driver - Not Hit,unknown,Fatal,2
+Driver - Not Hit,unknown,Non-Fatal Injury,12
+In-Line Skater,15 to 19,Non-Fatal Injury,2
+In-Line Skater,30 to 34,Non-Fatal Injury,1
+In-Line Skater,50 to 54,Non-Fatal Injury,2
+Moped Driver,15 to 19,Non-Fatal Injury,1
+Moped Driver,20 to 24,Non-Fatal Injury,1
+Moped Driver,25 to 29,Non-Fatal Injury,1
+Moped Driver,35 to 39,Non-Fatal Injury,5
+Moped Driver,40 to 44,Non-Fatal Injury,4
+Moped Driver,45 to 49,Non-Fatal Injury,1
+Moped Driver,50 to 54,Non-Fatal Injury,5
+Moped Driver,55 to 59,Non-Fatal Injury,6
+Moped Driver,60 to 64,Non-Fatal Injury,1
+Moped Driver,65 to 69,Non-Fatal Injury,1
+Moped Driver,70 to 74,Non-Fatal Injury,1
+Motorcycle Driver,15 to 19,Non-Fatal Injury,18
+Motorcycle Driver,20 to 24,Fatal,12
+Motorcycle Driver,20 to 24,Non-Fatal Injury,75
+Motorcycle Driver,25 to 29,Fatal,15
+Motorcycle Driver,25 to 29,Non-Fatal Injury,100
+Motorcycle Driver,30 to 34,Fatal,16
+Motorcycle Driver,30 to 34,Non-Fatal Injury,83
+Motorcycle Driver,35 to 39,Fatal,10
+Motorcycle Driver,35 to 39,Non-Fatal Injury,69
+Motorcycle Driver,40 to 44,Fatal,6
+Motorcycle Driver,40 to 44,Non-Fatal Injury,47
+Motorcycle Driver,45 to 49,Fatal,7
+Motorcycle Driver,45 to 49,Non-Fatal Injury,48
+Motorcycle Driver,50 to 54,Fatal,2
+Motorcycle Driver,50 to 54,Non-Fatal Injury,37
+Motorcycle Driver,55 to 59,Fatal,3
+Motorcycle Driver,55 to 59,Non-Fatal Injury,26
+Motorcycle Driver,60 to 64,Fatal,1
+Motorcycle Driver,60 to 64,Non-Fatal Injury,13
+Motorcycle Driver,65 to 69,Non-Fatal Injury,4
+Motorcycle Driver,70 to 74,Fatal,2
+Motorcycle Driver,70 to 74,Non-Fatal Injury,2
+Motorcycle Driver,75 to 79,Fatal,1
+Motorcycle Driver,75 to 79,Non-Fatal Injury,1
+Motorcycle Driver,unknown,Fatal,1
+Motorcycle Driver,unknown,Non-Fatal Injury,8
+Motorcycle Passenger,10 to 14,Non-Fatal Injury,2
+Motorcycle Passenger,15 to 19,Non-Fatal Injury,5
+Motorcycle Passenger,20 to 24,Fatal,2
+Motorcycle Passenger,20 to 24,Non-Fatal Injury,8
+Motorcycle Passenger,25 to 29,Non-Fatal Injury,8
+Motorcycle Passenger,30 to 34,Non-Fatal Injury,2
+Motorcycle Passenger,35 to 39,Non-Fatal Injury,2
+Motorcycle Passenger,40 to 44,Non-Fatal Injury,1
+Motorcycle Passenger,50 to 54,Non-Fatal Injury,1
+Motorcycle Passenger,unknown,Non-Fatal Injury,1
+Other,0 to 4,Non-Fatal Injury,1
+Other,10 to 14,Non-Fatal Injury,1
+Other,15 to 19,Non-Fatal Injury,1
+Other,20 to 24,Non-Fatal Injury,2
+Other,25 to 29,Non-Fatal Injury,2
+Other,30 to 34,Non-Fatal Injury,2
+Other,35 to 39,Fatal,1
+Other,35 to 39,Non-Fatal Injury,2
+Other,40 to 44,Non-Fatal Injury,2
+Other,5 to 9,Non-Fatal Injury,1
+Other,50 to 54,Fatal,1
+Other,50 to 54,Non-Fatal Injury,2
+Other,55 to 59,Fatal,1
+Other,60 to 64,Non-Fatal Injury,3
+Other,70 to 74,Non-Fatal Injury,1
+Other,Over 95,Non-Fatal Injury,4
+Other,unknown,Fatal,37
+Other,unknown,Non-Fatal Injury,110
+Other Property Owner,unknown,Fatal,39
+Other Property Owner,unknown,Non-Fatal Injury,218
+Passenger,0 to 4,Fatal,7
+Passenger,0 to 4,Non-Fatal Injury,126
+Passenger,10 to 14,Fatal,12
+Passenger,10 to 14,Non-Fatal Injury,109
+Passenger,15 to 19,Fatal,50
+Passenger,15 to 19,Non-Fatal Injury,260
+Passenger,20 to 24,Fatal,58
+Passenger,20 to 24,Non-Fatal Injury,340
+Passenger,25 to 29,Fatal,33
+Passenger,25 to 29,Non-Fatal Injury,222
+Passenger,30 to 34,Fatal,21
+Passenger,30 to 34,Non-Fatal Injury,151
+Passenger,35 to 39,Fatal,20
+Passenger,35 to 39,Non-Fatal Injury,113
+Passenger,40 to 44,Fatal,18
+Passenger,40 to 44,Non-Fatal Injury,97
+Passenger,45 to 49,Fatal,10
+Passenger,45 to 49,Non-Fatal Injury,97
+Passenger,5 to 9,Fatal,12
+Passenger,5 to 9,Non-Fatal Injury,118
+Passenger,50 to 54,Fatal,19
+Passenger,50 to 54,Non-Fatal Injury,101
+Passenger,55 to 59,Fatal,12
+Passenger,55 to 59,Non-Fatal Injury,97
+Passenger,60 to 64,Fatal,9
+Passenger,60 to 64,Non-Fatal Injury,81
+Passenger,65 to 69,Fatal,8
+Passenger,65 to 69,Non-Fatal Injury,67
+Passenger,70 to 74,Fatal,9
+Passenger,70 to 74,Non-Fatal Injury,47
+Passenger,75 to 79,Fatal,3
+Passenger,75 to 79,Non-Fatal Injury,41
+Passenger,80 to 84,Fatal,12
+Passenger,80 to 84,Non-Fatal Injury,34
+Passenger,85 to 89,Fatal,5
+Passenger,85 to 89,Non-Fatal Injury,25
+Passenger,90 to 94,Fatal,7
+Passenger,90 to 94,Non-Fatal Injury,6
+Passenger,Over 95,Non-Fatal Injury,2
+Passenger,unknown,Fatal,11
+Passenger,unknown,Non-Fatal Injury,73
+Pedestrian,0 to 4,Fatal,5
+Pedestrian,0 to 4,Non-Fatal Injury,28
+Pedestrian,10 to 14,Fatal,5
+Pedestrian,10 to 14,Non-Fatal Injury,82
+Pedestrian,15 to 19,Fatal,21
+Pedestrian,15 to 19,Non-Fatal Injury,136
+Pedestrian,20 to 24,Fatal,20
+Pedestrian,20 to 24,Non-Fatal Injury,190
+Pedestrian,25 to 29,Fatal,17
+Pedestrian,25 to 29,Non-Fatal Injury,216
+Pedestrian,30 to 34,Fatal,23
+Pedestrian,30 to 34,Non-Fatal Injury,159
+Pedestrian,35 to 39,Fatal,19
+Pedestrian,35 to 39,Non-Fatal Injury,138
+Pedestrian,40 to 44,Fatal,28
+Pedestrian,40 to 44,Non-Fatal Injury,148
+Pedestrian,45 to 49,Fatal,20
+Pedestrian,45 to 49,Non-Fatal Injury,152
+Pedestrian,5 to 9,Fatal,12
+Pedestrian,5 to 9,Non-Fatal Injury,32
+Pedestrian,50 to 54,Fatal,22
+Pedestrian,50 to 54,Non-Fatal Injury,183
+Pedestrian,55 to 59,Fatal,40
+Pedestrian,55 to 59,Non-Fatal Injury,152
+Pedestrian,60 to 64,Fatal,36
+Pedestrian,60 to 64,Non-Fatal Injury,144
+Pedestrian,65 to 69,Fatal,44
+Pedestrian,65 to 69,Non-Fatal Injury,148
+Pedestrian,70 to 74,Fatal,45
+Pedestrian,70 to 74,Non-Fatal Injury,130
+Pedestrian,75 to 79,Fatal,53
+Pedestrian,75 to 79,Non-Fatal Injury,111
+Pedestrian,80 to 84,Fatal,44
+Pedestrian,80 to 84,Non-Fatal Injury,89
+Pedestrian,85 to 89,Fatal,36
+Pedestrian,85 to 89,Non-Fatal Injury,63
+Pedestrian,90 to 94,Fatal,13
+Pedestrian,90 to 94,Non-Fatal Injury,12
+Pedestrian,Over 95,Fatal,6
+Pedestrian,Over 95,Non-Fatal Injury,1
+Pedestrian,unknown,Fatal,3
+Pedestrian,unknown,Non-Fatal Injury,45
+Pedestrian - Not Hit,35 to 39,Non-Fatal Injury,1
+Trailer Owner,unknown,Non-Fatal Injury,2
+Truck Driver,15 to 19,Non-Fatal Injury,1
+Truck Driver,20 to 24,Fatal,5
+Truck Driver,20 to 24,Non-Fatal Injury,11
+Truck Driver,25 to 29,Fatal,7
+Truck Driver,25 to 29,Non-Fatal Injury,28
+Truck Driver,30 to 34,Fatal,9
+Truck Driver,30 to 34,Non-Fatal Injury,24
+Truck Driver,35 to 39,Fatal,10
+Truck Driver,35 to 39,Non-Fatal Injury,35
+Truck Driver,40 to 44,Fatal,9
+Truck Driver,40 to 44,Non-Fatal Injury,22
+Truck Driver,45 to 49,Fatal,12
+Truck Driver,45 to 49,Non-Fatal Injury,31
+Truck Driver,50 to 54,Fatal,14
+Truck Driver,50 to 54,Non-Fatal Injury,22
+Truck Driver,55 to 59,Fatal,6
+Truck Driver,55 to 59,Non-Fatal Injury,20
+Truck Driver,60 to 64,Fatal,7
+Truck Driver,60 to 64,Non-Fatal Injury,24
+Truck Driver,65 to 69,Fatal,3
+Truck Driver,65 to 69,Non-Fatal Injury,6
+Truck Driver,70 to 74,Non-Fatal Injury,5
+Truck Driver,75 to 79,Non-Fatal Injury,2
+Truck Driver,unknown,Fatal,1
+Truck Driver,unknown,Non-Fatal Injury,2
+Vehicle Owner,unknown,Fatal,227
+Vehicle Owner,unknown,Non-Fatal Injury,1409
+Wheelchair,40 to 44,Non-Fatal Injury,1
+Wheelchair,45 to 49,Non-Fatal Injury,1
+Wheelchair,50 to 54,Non-Fatal Injury,1
+Wheelchair,60 to 64,Fatal,1
+Wheelchair,60 to 64,Non-Fatal Injury,1
+Wheelchair,65 to 69,Non-Fatal Injury,1
+Wheelchair,70 to 74,Non-Fatal Injury,1
+Wheelchair,75 to 79,Non-Fatal Injury,3
+Wheelchair,80 to 84,Fatal,1
+Wheelchair,80 to 84,Non-Fatal Injury,1
+Wheelchair,90 to 94,Non-Fatal Injury,1
+Witness,unknown,Fatal,1
+
