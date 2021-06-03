@@ -107,6 +107,7 @@ The same can also be found on [Tableau public](https://public.tableau.com/app/pr
 
 The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitybytime/FatalitybyTime)
 
+
 # Machine Learning
 
 In order to use our dataset to predict future fatal and non-fatal collisions, we will need to select a machine learning model for our analysis. To achieve this, we will be testing the following models:
