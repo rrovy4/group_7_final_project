@@ -64,47 +64,40 @@ Would like to show some basic visuals on the following topics.
 
 
 4. Injuries caused by alchohol
-![image](https://user-images.githubusercontent.com/76402559/120498566-4fb50300-c38d-11eb-9035-994f1e551266.png)
+![image](https://user-images.githubusercontent.com/76402559/120896143-3b237580-c5ee-11eb-82ba-0a9744b45aa7.png)
 
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Injuriescausedbyalchohol/Breakdownofinjuries)
-
-
-5. Injuries caused by alchohol for 20 to 24 year olds
-![image](https://user-images.githubusercontent.com/76402559/120498305-1da3a100-c38d-11eb-8eff-37d5f1353843.png)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Injuriescausedbyalchohol/Injuriescausedbyalchohol)
 
 
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Injuriescausedbyalchoholfor20to24yearolds/Breakdownofinjuries)
-
-
-6. Injuries by Manoeuver in Toronto
+5. Injuries by Manoeuver in Toronto
 ![image](https://user-images.githubusercontent.com/76402559/120498988-af131300-c38d-11eb-8f0a-a522413e195f.png)
 
 
 The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/InjuriesbyManoeuverinToronto/InjuriesbyManoeuverinToronto2)
 
-7. Fatalities by involvement type
-![image](https://user-images.githubusercontent.com/76402559/120111398-cf4d9280-c13f-11eb-8d33-a01d8178e37a.png)
+6. Fatalities by Involvement Type
+![image](https://user-images.githubusercontent.com/76402559/120896227-a4a38400-c5ee-11eb-927c-2d87176c0b7e.png)
 
 
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitiesbyinvolvmenttypepiechart/fatalitiesbyinvolvementtype)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/FatalitiesbyInvolvementType/fatalitiesbyinvolvementtype)
 
-8. Fatal or non-fatal accidents by year
-![image](https://user-images.githubusercontent.com/76402559/120500551-f1891f80-c38e-11eb-9576-93fa749bcb37.png)
-
-
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalornon-fatalaccidentsbyyear/Breakdownofaccidentsbyyear)
-
-9. Fatal or non-fatal by Time range
-![image](https://user-images.githubusercontent.com/76402559/120500450-d8806e80-c38e-11eb-9a0f-452ae72c39d5.png)
+7. Types of Injuries by Year
+![image](https://user-images.githubusercontent.com/76402559/120896293-e92f1f80-c5ee-11eb-9f90-22b424eee5ac.png)
 
 
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalornon-fatalbytime/FatalitybyTimeRange)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Typesofinjuriesbyyear/Typesofinjuriesbyyear)
 
-10. Fatality by Time
-![image](https://user-images.githubusercontent.com/76402559/120500149-9fe09500-c38e-11eb-8278-19c4b4593068.png)
+8. Fatality by Time Range
+![image](https://user-images.githubusercontent.com/76402559/120896344-167bcd80-c5ef-11eb-9357-79619d95e654.png)
 
 
-The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/Fatalitybytime/FatalitybyTime)
+The same can also be found on [Tableau public](https://public.tableau.com/app/profile/maaz.ahmed3945/viz/FatalitybyTimeRange/FatalitybyTimeRange)
+
+9. Fatality by Hour
+![image](https://user-images.githubusercontent.com/76402559/120896377-3a3f1380-c5ef-11eb-903f-36409bd1dfab.png)
+
+
+The same can also be found on [https://public.tableau.com/app/profile/maaz.ahmed3945/viz/FatalitybyHour/FatalitybyTime)
 
 
 # Machine Learning
