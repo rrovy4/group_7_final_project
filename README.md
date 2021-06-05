@@ -52,8 +52,7 @@ The purpose of our project is to analyze Killed and Seriously Injured data taken
 
 Would like to show some basic visuals on the following topics.
 
-1. A districtwide visualization of all the collisions in Toronto. The same can also be found on [Tableau Public](https://public.tableau.com/views/AdistrictwidevisualizationofallthecollisionsinToronto[…]to_?:language=en-US&:display_count=n&:origin=viz_share_link)
-<img width="956" alt="1" src="https://user-images.githubusercontent.com/76264061/120106578-350b4000-c17b-11eb-8109-59bb0be15fa0.png">
+1. A districtwide visualization of all the collisions in Toronto.
 
 2. Severity of collisions based on its impac. The same can also be found on [Tableau public](https://public.tableau.com/views/2_Severityofcollisionsbasedonitsimpact/2_Agraphicalrepresentationofthe?:language=en-US&:display_count=n&:origin=viz_share_link)
 
