@@ -1,12 +1,13 @@
 # group_7_final_project
 
-## Overview
+## Objective of the project
 
 The purpose of our project is to analyze Killed and Seriously Injured data taken from the Toronto Police Service Open Data Portal and determine which areas are considered high risk for fatal and non-fatal collisions. This analysis will help inform daily commuters of these high risk areas and aid city officials develope proper safety measures to reduce the number of collisions.
 
+
 ## Questions
 
-- Which areas (neghborhoods/districts) in Toronto are prone to fatal and non-fatal collisions?
+- Which areas (neighbourhood/districts) in Toronto are prone to fatal and non-fatal collisions?
 
   - Strategy: Perform explaratory analysis on collision rates by neighborhood/district groups.
 
