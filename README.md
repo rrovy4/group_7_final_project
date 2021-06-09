@@ -47,7 +47,9 @@ Toronto Police Service Public Safety Data Portal
 - Machine Learning: Jason
 - Presentation Materials: Maaz
 
-# Presentation Slides
+# Presentation Slides2
+
+* Work-in-progress. This will be completed for before the group presents on June 9th.
 https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit?usp=sharing
 
 # Visualization
