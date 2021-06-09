@@ -47,7 +47,10 @@ Toronto Police Service Public Safety Data Portal
 - Machine Learning: Jason
 - Presentation Materials: Maaz
 
-# Deliverable 2
+# Presentation Slides
+https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit?usp=sharing
+
+# Visualization
 
 The purpose of our project is to analyze Killed and Seriously Injured data taken from the Toronto Police Service Open Data Portal and determine which areas are considered high risk for fatal and non-fatal collisions. This analysis will help inform daily commuters of these high risk areas and aid city officials develope proper safety measures to reduce the number of collisions.
 
@@ -100,6 +103,11 @@ The same can also be found on [Tableau public](https://public.tableau.com/app/pr
 
 The same can also be found on [https://public.tableau.com/app/profile/maaz.ahmed3945/viz/FatalitybyHour/FatalitybyTime)
 
+#@ Tableau Dashboard
+
+The following dashboard visualizes the which areas are impacted the most by collisions, who they affect the most and when they typically occur. The date range slider can be used to observe trends anytime between 2006 and 2015.
+
+https://public.tableau.com/views/KSI_16226919616790/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # Machine Learning
 
@@ -191,6 +199,7 @@ Accuracy Score: 0.7802319612194826
 Imbalanced Classification Report
 
 ![ee](/resources/screenshots/eec_icr.PNG)
+
 
 ## Summary
 
