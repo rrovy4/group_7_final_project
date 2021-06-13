@@ -76,7 +76,7 @@ The purpose of the visualization is to analyze the data taken from the Toronto P
 - The first motion chart describes the total number of collisions over the years. What is observed is that there is a drop in collisions in the year 2019 and 2020. The highest was observed in August 2006 with over 66 collisions. 
 - The second heat map of Toronto below on the left side, is a division of the collisions by districts by shades of red. What is observed is that the Downtown and Waterfront areas has recorded the highest number of collisions over the years.  
 - The next Gantt Chart is a visual of the neighborhoods that have recorded the highest number of collisions and are categorized by Fatal and Non-Fatal collisions. 
-- The last Doughnut chart is a visual of the total number of collisions and is divided by Fatal and Non-Fatal collisions. There were a total of 6002 collisions in the past 14 years and 806 (13%) were recorded as Fatal and 5196 (87%) were recorded as Non-Fatal. [Tableau public link](https://public.tableau.com/views/KSI_16226919616790/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)  https://public.tableau.com/app/profile/jason.hall7542/viz/KSI_16226919616790/Story1
+- The last Doughnut chart is a visual of the total number of collisions and is divided by Fatal and Non-Fatal collisions. There were a total of 6002 collisions in the past 14 years and 806 (13%) were recorded as Fatal and 5196 (87%) were recorded as Non-Fatal. [Tableau public link](https://public.tableau.com/views/KSI_16226919616790/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 ## Dashboard 2
 
