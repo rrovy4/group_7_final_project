@@ -229,6 +229,10 @@ After testing six machine learning models, we found that the Balanced Random For
 
 Since the majority of all fatal collisions are being classified correctly, additional testing will be required to address a large number of false positives in this class. This is not a major issue though, as it is better to have false positives for fatal collisions than for non-fatal. Whether or not resources are available to perform additional testing, we recommend moving forward with the Balanced Random Forest Classifier model. 
 
+### Class Presentation
+
+Class presentation was done through google and the came can be found [here](https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit#slide=id.p) 
+
 ## Group Member and Roles
 <img width="437" alt="5" src="https://user-images.githubusercontent.com/76264061/121800867-d1d8dd80-cc51-11eb-81b2-abbbeb8e134a.png">
 
