@@ -231,7 +231,7 @@ Since the majority of all fatal collisions are being classified correctly, addit
 
 ### Class Presentation
 
-Class presentation was done through google and the came can be found [here](https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit#slide=id.p) 
+Class presentation was done through google slides and the came can be found [here](https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit#slide=id.p) 
 
 ## Group Member and Roles
 <img width="437" alt="5" src="https://user-images.githubusercontent.com/76264061/121800867-d1d8dd80-cc51-11eb-81b2-abbbeb8e134a.png">
