@@ -55,6 +55,7 @@ Data Analysis was done in a 3 step process.
 ## Step 1: Data Exploration
 <img width="700" alt="Step 1" src="https://user-images.githubusercontent.com/76264061/121797862-984ba680-cc40-11eb-8df1-033c4b3c9a8c.png">
 CSV files, Jupyter notebook, Postgres
+
 - Understanding that the source data isn’t always clean, honest efforts were made to make the source data as clean as possible. Data were analyzed visually and we also applied certain filtration, sorting, and standardization across the data (transform phase)
 - For example, identifying and excluding unnecessary fields, running counts against fields of interest, standardizing any anomalies, etc.
 - Once the source data was in an acceptable format, to answer the objective of the project, records from the data set were bucketed by relevance and extracted in a structured format (extract phase)
