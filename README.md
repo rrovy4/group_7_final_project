@@ -24,7 +24,7 @@ The purpose of our project is to analyze Killed and Seriously Injured data taken
 ## Major Questions
 
 What areas (neighborhoods/districts) in Toronto are prone to fatal and non-fatal collisions?
-- What are the top 5 neighborhood that has the hight number of collisions? 
+- What are the top 5 neighborhood that have the highest number of collisions? 
 - Who and what was the type of involvement of collisions by age? 
 - At what time in the day were the maximum collisions reported?
 - What are the major causes of the collisions and who was the most affected by them?
@@ -56,12 +56,12 @@ Data Analysis was done in a 3 step process.
 <img width="700" alt="Step 1" src="https://user-images.githubusercontent.com/76264061/121797862-984ba680-cc40-11eb-8df1-033c4b3c9a8c.png">
 CSV files, Jupyter notebook, Postgres
 
-- Understanding that the source data isn’t always clean, honest efforts were made to make the source data as clean as possible. Data were analyzed visually and we also applied certain filtration, sorting, and standardization across the data (transform phase)
+- Understanding that the source data isn’t always clean, honest efforts were made to make the source data as clean as possible. Data was analyzed visually and we also applied certain filtration, sorting, and standardization across the data (transform phase)
 - For example, identifying and excluding unnecessary fields, running counts against fields of interest, standardizing any anomalies, etc.
 - Once the source data was in an acceptable format, to answer the objective of the project, records from the data set were bucketed by relevance and extracted in a structured format (extract phase)
 - Once the structured data was extracted, it was loaded into a database in Postgres for persistence (load phase)
 - This data was then further used for visualization downstream
-- A bunch of tools was utilized, from data acquisition through the data load phase. Primarily, MS Excel, Python and its libraries (Pandas, CSV, SQLAlchemy), Jupyter Notebook, and Postgres Database
+- A bunch of tools were utilized, from data acquisition through the data load phase. Primarily, MS Excel, Python and its libraries (Pandas, CSV, SQLAlchemy), Jupyter Notebook, and Postgres Database
 
 
 # Step 2: Visualisation using Tableau 
@@ -75,7 +75,7 @@ The purpose of the visualization is to analyze the data taken from the Toronto P
 
 ### Interpretation
 - The first motion chart describes the total number of collisions over the years. What is observed is that there is a drop in collisions in the year 2019 and 2020. The highest was observed in August 2006 with over 66 collisions. 
-- The second heat map of Toronto below on the left side, is a division of the collisions by districts by shades of red. What is observed is that the Downtown and Waterfront areas has recorded the highest number of collisions over the years.  
+- The second heat map of Toronto below on the left side, is a division of the collisions by districts by shades of red. What is observed is that the Downtown and Waterfront areas have recorded the highest number of collisions over the years.  
 - The next Gantt Chart is a visual of the neighborhoods that have recorded the highest number of collisions and are categorized by Fatal and Non-Fatal collisions. 
 - The last Doughnut chart is a visual of the total number of collisions and is divided by Fatal and Non-Fatal collisions. There were a total of 6002 collisions in the past 14 years and 806 (13%) were recorded as Fatal and 5196 (87%) were recorded as Non-Fatal. [Tableau public link](https://public.tableau.com/views/KSI_16226919616790/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
@@ -86,8 +86,8 @@ The purpose of the visualization is to analyze the data taken from the Toronto P
 ### Interpretation 
 
 - The first heat map shows a description of collisions by age and by the type of involvement like a cyclist, driver, motorcyclist, pedestrian, and passenger. It was observed that most of the collisions were caused due to diver's involvement and in the age group of 20-29 and 40-44.
--  The treemap observes the time of day the collisions have occurred. It was recorded that the highest collisions have recorded in the afternoon followed by rush hour mornings. 
--  The last bar chart represents the major causes of the collisions and who was involved in them. It was found that the causes identified were Aggregive and distracted driving, alcohol-related, medical of physical disability-related, red light-related, and speeding-related. What caused most of the collisions, around 4300 collisions, was Aggregive and distracted driving followed by collisions caused by speeding. [Tableau public link]( https://public.tableau.com/app/profile/jason.hall7542/viz/KSI_16226919616790/Story1) 
+-  The treemap observes the time of day the collisions have occurred. It was recorded that the highest collisions were recorded in the afternoon followed by rush hour mornings. 
+-  The last bar chart represents the major causes of the collisions and who was involved in them. It was found that the causes identified were Aggressive and distracted driving, alcohol-related, medical of physical disability-related, red light-related, and speeding-related. What caused most of the collisions, around 4300 collisions, was Aggressive and distracted driving followed by collisions caused by speeding. [Tableau public link]( https://public.tableau.com/app/profile/jason.hall7542/viz/KSI_16226919616790/Story1) 
 
 
 ### Other Visuals 
@@ -232,7 +232,7 @@ Since the majority of all fatal collisions are being classified correctly, addit
 
 ### Class Presentation
 
-Class presentation was done through google slides and the came can be found [here](https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit#slide=id.p) 
+Class presentation was done through google slides and can be found [here](https://docs.google.com/presentation/d/1OjUM8VMmiSOpwvvHYpZ-E8ZHgRsSwvOW7qwwx1JBzNs/edit#slide=id.p) 
 
 ## Group Member and Roles
 <img width="437" alt="5" src="https://user-images.githubusercontent.com/76264061/121800867-d1d8dd80-cc51-11eb-81b2-abbbeb8e134a.png">
